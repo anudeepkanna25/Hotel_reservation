@@ -34,8 +34,4 @@ Upon running the application, you'll be presented with a menu to choose your des
 
 Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
 
-Contributing 🤝
-Contributions are welcome! Feel free to open issues and pull requests for bug fixes, enhancements, or new features.
-Acknowledgments 🙏
-Special thanks to all contributors and supporters of the Hotel Reservation System project.
-Happy booking! 🌆
+
